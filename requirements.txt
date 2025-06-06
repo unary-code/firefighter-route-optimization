@@ -1,0 +1,21 @@
+xgboost
+seaborn
+numpy
+pandas
+geopandas
+# tensorflow
+scikit-learn
+#shapely
+#shapely.geometry
+#pprint
+environs
+googlemaps
+matplotlib
+requests
+#BeautifulSoup
+datetime
+pyproj
+gurobipy
+geopy
+torch
+polyline

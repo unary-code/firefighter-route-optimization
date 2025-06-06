@@ -1,0 +1,15 @@
+﻿2021 EMS Low Risk reports call types-,2021 EMS Moderate Risk reports call types-,2021 EMS High Risk reports call types-
+Call Types,Call Types,Call Types
+"FEABAI (Abd Pain),","FECPC1 (Chest Pain),","FECAD1 (Cardiac Arrest),"
+"FEASAI (Assault),","FEDIC1 (Diabetic Problem),",FEMAD1 (MVA[Entrapment/Fire/Ejection])
+"FEBAAI (Back Pain),","FEHTC1 (Heart Problem),","FERED1 (Breathing Problem[Not]),"
+"FEFAAI (Fall),",FEODC1 (Overdose),"FESHD1 (Shooting),"
+"FEMAAI (MVA),","FEREC1 (Breathing Problem),",
+"FESIAI (Sick Person),","FESTC1 (Stroke),",
+FEUAAI (Unknown Problem),"FESYC1 (Syncope),",
+,,
+Units,Units,Units
+"1 Ambulance, OR",1 Medic,1 Medic
+"1 Engine, OR",,1 EMS Supervisor
+1 Ladder,,1 Engine OR
+,,1 Ladder

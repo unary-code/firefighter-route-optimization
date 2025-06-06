@@ -1,0 +1,47 @@
+﻿2021 Rescue Low Risk call types-,2021 Rescue Moderate Risk call types-,2021 Rescue High Risk call types-,,,for Heather's reference:,,,,
+Call Types,Call Types,Call Types,,,Rescue low,,,Rescue High,
+FFEL,FFMA,FFAB,,,FFORCA,Mach Extrication required,,FFABAF,Hanger Fire Poss Trapped
+FFES,FFHA,FFAL,,,FFORDA,Vend Extrication required,,FFABBF,Terminal Fire poss Trppd
+FFOR,FFCS,FFHR,,,FFORAA,Gate-Extrication required,,FFABCF,Airport Bldg poss trppd
+,FEIJ,FFLB,,,FFELBB,Elevator Stuck w/inj.,,FFABAG,Hanger Poss Trppd Haz Mat
+,FEIN,FFMB,,,FFELAA,Elevator Rescue-Fallen,,FFABBG,Terminal Fire Trppd Hz Mt
+,FEMA,,,,FFELBA,Elevator Stuck,,FFABCG,Airport Bldg Trppd Hz Mat
+,FEMC,,,,FFESAA,Trapped on Escalator,,FFABDE,Airport High RiseTrppd
+,FEPD,,,,FFESBA,Trapped on Escalator/Inj,,FFALBB,Alert III off airport
+,FEFA,,,,,,,FFALBC,Helicopter Crash
+,,,,,,,,FFALBA,Alert III on Airport
+,,,,,Rescue Medium,,,FFALDR,Alert III on Airport
+Units,Units,Units,,,FEMAD3,Vehicle in Water,,FFLBAF,Apt Fire Possible Trap
+1 Engine OR,2 Engines OR,3 Engines OR,,,FEMA3D,Vehicle in Water,,FFLBBF,Shop Center Fire Trapped
+1 Ladder,"2 Ladders, OR","3 Ladders, OR",,,FEMA4D,Heavy Veh. Ext.,,FFLBCF,Office Building trapped
+1 Rescue Truck,1 Engine and 1 Ladder,1 Engine and 2 Ladders OR,,,FEMAD4,Heavy Veh. Ext. required,,FFLBDF,Store on Fire Trapped
+,2 Rescue Trucks,2 Engines and 1 Ladder,,,FEMAD6,"Veh Fire, Extrication Req",,FFLBEF,Warehouse Fire Trapped
+,1 Ambulance OR,2 Rescue Trucks,,,FEMA6D,Veh Fire Extricatication,,FFLBFF,School Fire Trapped
+,1 Medic,1 Ambulance OR,,,FEMAD8,"Veh Fire, Ext Req/ H.Veh",,FFLBGF,Nursing Home Trapped
+,1 Safety Officer,1 Medic,,,FFHAAA,High Angle Rescue <40',,FFLBHF,Hospital on Fire Trapped
+,1 EMS Supervisor,1 Safety Officer,,,FFHABA,T. High Angle Res. <40',,FFLBIF,Rest. Fire Trapped
+,,1 EMS Supervisor,,,FFHAAB,High Angle Rescue >40',,FFLBJF,Church Fire Trapped
+,,,,,FFHABB,T. High Angle Res. >40',,FFLBLF,Hotel Fire Possible Trap
+,,,,,FFCSBA,Bldg Collapse Poss Trppd,,FFLBXF,Bldg. Fire Trapped
+,,,,,FFCSBB,Bldg Collapse,,FFLBAG,Apt Fire Trap w/Haz Mat
+,,,,,FFCSCB,Trench Rescue Mult Trppd,,FFLBBG,Shop Ctr Trap w/Haz M
+,,,,,FFCSEB,Mult people trpd Shp Hold,,FFLBCG,Office Trapped w/Haz M
+,,,,,FFCSFB,Tunnel Rescue Mult Trppd,,FFLBDG,Store Fire trap w/Haz M
+,,,,,FFCSAA,House Collapse,,FFLBEG,Warehouse Trap w/Haz M
+,,,,,FFCSAB,House Collapse Poss Trppd,,FFLBFG,School Fire Trap w/Haz M
+,,,,,FFCSCA,Trench Rescue,,FFLBGG,Nursing Home Trap w/Haz M
+,,,,,FFCSDA,Rescue in a Manhole,,FFLBHG,Hosp. Fire Trap w/Haz M
+,,,,,FFCSDB,Manhole Rescue Mult Trppd,,FFLBIG,Rest. Fire Trap w/Haz Mat
+,,,,,FFCSEA,Rescue in Ship Cargo Hold,,FFLBJG,Church Fire Trap/Haz Mat
+,,,,,FFCSFA,Rescue in Tunnel,,FFLBLG,Hotel Fire Trap w/Haz Mat
+,,,,,FFCSXA,Unknown Type of Rescuel,,FFLBXG,Bldg. Fire Trap w/Haz M
+,,,,,FFCSXB,Unknown Rescue Mult Trppd,,FFHRDA,Highrise on Fire Trapped
+,,,,,FEIJ2D,Extrication,,FFMBAD,House on Fire poss trap
+,,,,,FEIND2,Industrial Extrication,,FFMBBD,Duplex Fire Person trap
+,,,,,FEMA2D,MVA Extrication,,FFMBCD,Garage Fire Person trap
+,,,,,FEMAD2,MVA Extrication required,,FFMBDD,Garage/ Apt Fire Trap
+,,,,,FEMC2D,Motorcycle Extrication,,FFMBED,Mobile Home Fire trap
+,,,,,FEMCD2,Motorcycle Extrication,,FFMBXD,Building Fire trapped
+,,,,,FEPD2D,Pedestrian Extrication,,,
+,,,,,FEPDD2,Pedestrian Extrication,,,
+,,,,,FEFAD2,FALL-Extrication Needed,,,
